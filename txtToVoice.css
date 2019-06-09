@@ -1,0 +1,59 @@
+.voiceinator{
+
+	height: 400px;
+	width: 400px;
+	border: 2px solid black;
+	margin: 0 auto;
+	text-align: center;
+	padding: 6.66%;
+	padding-top: 8%;
+	background-color:#420629 ;
+}
+body{
+	background-image: url("https://s3.envato.com/files/220612015/image%20preview.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	height: 100%; 
+	background-position: center;
+}
+#stop{
+
+	outline:none;
+	border-radius: 24px;
+	background: none;
+	margin:2%;
+	font-weight: bold;
+	font-size: 150%;
+	color: #e8a0bb;
+}
+#speak{
+
+	outline:none;
+	border-radius: 24px;
+	background: none;
+	margin:2%;
+	font-weight:bold;
+	font-size: 150%;
+	color: #e8a0bb;
+}
+#txtarea{
+
+    outline:none;
+	margin:2%;
+}
+h1{
+	border: 2px solid black;
+	background-color:#bc7ca1;
+	height: 50px;
+	width: 400px;
+	text-align: center;
+ 
+
+
+
+}
+.abc{
+	padding-top : 2%;
+	font-size: 150%;
+	color: #e8a0bb;
+}
